@@ -1,0 +1,6 @@
+get a list of all folders/subfolders/files
+1. cd to the directory
+2. dir/s/b (this will show all the files in the terminal window)
+    a. limit to specific file type -- dir/s/b *.sql
+    b. send results to text file -- dir/s/b > textfile.txt
+    
